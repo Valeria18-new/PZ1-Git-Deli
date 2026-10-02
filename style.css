@@ -14,3 +14,11 @@ body {
 h1 {
     color: darkblue;
 }
+button {
+    padding: 10px 16px;
+    background-color: darkblue;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
