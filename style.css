@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 40px;
+    background-color: #f3f3f3;
+}
+
+.card {
+    max-width: 500px;
+    padding: 30px;
+    background-color: white;
+    border-radius: 12px;
+}
+
+h1 {
+    color: darkblue;
+}
