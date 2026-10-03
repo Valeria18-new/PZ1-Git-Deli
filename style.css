@@ -22,3 +22,7 @@ button {
     border-radius: 8px;
     cursor: pointer;
 }
+/* Изменение от разработчика person2 */
+p {
+    line-height: 1.6;
+}
