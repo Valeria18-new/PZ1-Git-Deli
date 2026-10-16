@@ -1,6 +1,7 @@
 const assert = require("assert");
-const { sum } = require("./calculator");
+const { sum, subtract } = require("./calculator");
 
 assert.strictEqual(sum(2, 3), 5);
+assert.strictEqual(subtract(10, 4), 6);
 
-console.log("Тест успешно пройден: 2 + 3 = 5");
+console.log("Все тесты успешно пройдены");
